@@ -1,5 +1,5 @@
 import { IsEmail, IsEnum, IsNotEmpty, IsString, MinLength } from "class-validator";
-import { UserRole } from "../../enum/UserRole.js";
+import { UserRole } from "../../enum/UserRole";
 
 
 
